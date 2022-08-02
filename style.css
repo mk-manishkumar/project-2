@@ -107,6 +107,10 @@ body{
     margin-top: 2%;
   }
 
+  .list-item{
+    margin-left: 1.2rem;
+  }
+
   .button-small{
     margin-top: 5%;
     margin-bottom: 5%;
@@ -115,9 +119,12 @@ body{
   .hero-heading{
     font-size: 2rem;
     width: 95%;
+    margin-bottom: 2%;
   }
 
   .bottom{
     margin-top: 15%;
   }
+
+  
 }
