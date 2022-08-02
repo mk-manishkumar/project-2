@@ -1,7 +1,7 @@
 
-# Project-1
+# Project-2
 
-This project is a basic UI webpage which is created by using HTML and CSS.
+This project is a basic UI webpage which is created by using HTML and CSS. It's responsive.
 
 
 
@@ -28,7 +28,7 @@ This project is a basic UI webpage which is created by using HTML and CSS.
 
 # Netlify Link
 
-[Project - 2](https://project-1-mk.netlify.app/)
+[Project - 2](project-2-mk.netlify.app)
 
 # Thumbnail
 
