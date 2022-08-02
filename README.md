@@ -32,4 +32,5 @@ This project is a basic UI webpage which is created by using HTML and CSS. It's 
 
 # Thumbnail
 
-![thumbnail_pic](https://scontent.fmaa1-3.fna.fbcdn.net/v/t39.30808-6/297289529_832043051537125_4870648063677614496_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=YGAKDMB7cnoAX9pdJ4w&_nc_ht=scontent.fmaa1-3.fna&oh=00_AT9lcYk80cyAthTLK4vDoEe9N0WwI9fb62wgYfnmVUwhlA&oe=62ED51D7)
+![thumbnail](https://user-images.githubusercontent.com/102028645/182413328-bec1d535-7649-4d04-a375-cbfcb9477b4f.jpg)
+
