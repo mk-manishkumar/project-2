@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body{
+  background: url(assets/background-image.png) no-repeat center center fixed; 
+  background-size: cover;
+  /* height: 100vh; */
+}
+
+.container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100vh;
+  background: rgba(0,0,0,0.7);
+}
+
+
+
+
+/* ------------------------------ */
+
+
+/* ---------- NAVBAR ------------ */
+.navbar{
+  width: 90%;
+  margin: auto;
+  margin-top: 3%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list{
+  list-style-type: none;
+}
+
+.list-item{
+  display: inline;
+  color: #DDD101;
+  margin-left: 40px;
+}
+
+
+.button-small{
+  background-color: #BF3325;
+  color: #fff;
+  font-size: 1.3rem;
+  border: none;
+  padding: 10px 30px;
+}
+
+/* ------------------------------ */
+
+
+
+
+/* ------------------------------ */
+
+
+/* ---------- HERO ------------ */
+
+.hero{
+  text-align: center;
+  margin-top: 3%;
+}
+
+.hero-heading{
+  color: #DDD101;
+  font-size: 5rem;
+  width: 50%;
+  margin: auto;
+}
+
+.button-large{
+  border: none;
+  background-color: #BF3325;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  margin-top: 2%;
+}
+
+.bottom{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 5%;
+}
+/* ------------------------------ */
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 800px){
+
+  .navbar{
+    display: block;
+    text-align: center;
+  }
+
+  .list{
+    margin-top: 2%;
+  }
+
+  .button-small{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .hero-heading{
+    font-size: 3rem;
+  }
+
+  .bottom{
+    margin-top: 15%;
+  }
+}
